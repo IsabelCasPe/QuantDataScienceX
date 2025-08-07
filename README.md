@@ -58,7 +58,7 @@ Confira nosso banner matemático: [docs/images/math_banner.png](docs/images/math
 
 ---
 
-## 📂 Estrutura de Pastas Sugerida | Suggested Folder Structure  
+## 📂 Estrutura de Pastas | Folder Structure  
 - `01-introducao`: `intro.ipynb`, `setup_guide.md`  
 - `02-tratamento-dados`: `data_cleaning.py`, `numpy_exercises.ipynb`  
 - `03-visualizacao-dados`: `volatility_plot.py`, `seaborn_dashboard.ipynb`  
