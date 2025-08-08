@@ -14,7 +14,7 @@ Confira nosso banner matemático: [docs/images/math_banner.png](docs/images/math
 ---
 
 ## 📚 Estrutura do Curso | Course Structure
-
+- [apresenta.pdf](apresenta.pdf): Apresentação:  QuantDataScienceX: O Futuro das Finanças.
 ### 1️⃣ Introdução & Setup  
 - Introdução à Ciência de Dados / *Introduction to Data Science*  
 - Configuração de ambiente (`Python`, `Jupyter Notebook`, `GitHub`)  
@@ -72,7 +72,7 @@ Confira nosso banner matemático: [docs/images/math_banner.png](docs/images/math
 ## 🤝 Como Contribuir | How to Contribute  
 - Abra issues ou envie pull requests com sugestões!  
 - Teste os códigos e compartilhe feedbacks.  
-- Contato: [isabelcaspe@email.com](mailto:isabelcaspe@email.com)  
+- Contato: [anacp20@gmail.com](mailto:anacp20@gmail.com)  
 
 ## 📊 Status  
 [![Open Issues](https://img.shields.io/github/issues-raw/isabelcaspe/QuantDataScience)](https://github.com/isabelcaspe/QuantDataScience/issues)  
