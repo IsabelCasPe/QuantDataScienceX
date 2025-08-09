@@ -10,7 +10,7 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 *Here you will find a hands-on roadmap to learn Data Science, with a special focus on quantitative and financial applications, including risk simulations, dynamic visualizations, and option pricing with Python.*
 
 Confira nosso banner matemático: [Banner Math](BannerMath.png)
-
+- [Efficient Frontier](FrontierEfficient.png)
 ---
 
 ## 📚 Estrutura do Curso | Course Structure
