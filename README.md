@@ -17,7 +17,8 @@ Confira nosso banner matemático: [docs/images/math_banner.png](docs/images/math
 - [apresenta.pdf](apresenta.pdf): QuantDataScienceX!  O Futuro das Finanças.
 - [BTC](btc.pdf): Dinâmica do BTC
 ### 1️⃣ Introdução & Setup  
-- Introdução à Ciência de Dados / *Introduction to Data Science*  
+- Introdução à Ciência de Dados / *Introduction to Data Science*
+- [Bem-vindo ao Futuro da Finança Quântica](Introduction.pdf)
 - Configuração de ambiente (`Python`, `Jupyter Notebook`, `GitHub`)  
 - Exemplo: Crie seu primeiro ambiente com `pip install pandas`.  
 - 📂 Pasta: `01-introducao`
