@@ -14,7 +14,8 @@ Confira nosso banner matemático: [docs/images/math_banner.png](docs/images/math
 ---
 
 ## 📚 Estrutura do Curso | Course Structure
-- [apresenta.pdf](apresenta.pdf): Apresentação:  QuantDataScienceX: O Futuro das Finanças.
+- [apresenta.pdf](apresenta.pdf): QuantDataScienceX!  O Futuro das Finanças.
+- [BTC](btc.pdf): Dinâmica do BTC
 ### 1️⃣ Introdução & Setup  
 - Introdução à Ciência de Dados / *Introduction to Data Science*  
 - Configuração de ambiente (`Python`, `Jupyter Notebook`, `GitHub`)  
