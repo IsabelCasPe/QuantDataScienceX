@@ -10,9 +10,9 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 *Here you will find a hands-on roadmap to learn Data Science, with a special focus on quantitative and financial applications, including risk simulations, dynamic visualizations, and option pricing with Python.*
 # Galeria de Visualizações Futuristas do QuantDataScienceX
 
-- **[Banner Math](docs/images/BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
-- **[Efficient Frontier](docs/images/FrontierEfficient.png)** - Otimização de portfólio em ação!   
-- **[Python Structure](docs/images/python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌   
+- **[Banner Math](BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
+- **[Efficient Frontier](FrontierEfficient.png)** - Otimização de portfólio em ação!   
+- **[Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌   
 
 © 2025 @IsabelCasPe | [https://github.com/IsabelCasPe/QuantDataScienceX](https://github.com/IsabelCasPe/QuantDataScienceX)
 ---
