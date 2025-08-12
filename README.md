@@ -92,5 +92,9 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 - Códigos Python: [MIT License](LICENSE)
 
 **© 2025 Ana Isabel Castillo** 
+## Inspiração
+> "A abundância flui naturalmente em minha jornada, encontro amor e paz em cada passo, e sou grata pela sabedoria que ilumina meu caminho. As zoeiras são parte da minha alegria compartilhada!  
+> © 2025 Ana Isabel Castillo (@IsabelCasPe) - Todos os direitos reservados."
+
 
 
