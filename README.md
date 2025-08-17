@@ -13,7 +13,9 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 - **[Banner Math](BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
 - **[Efficient Frontier](FrontierEfficient.png)** - Otimização de portfólio em ação!   
 - **[Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌
-- **[Erwin Schrödinger (12/08/1887)](celebratingEquation.png) ** Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência. Uma mente que ecoa em chips e sonhos quânticos, mesmo com um dia de delay!  @IsabelCasPe
+- **[Erwin Schrödinger (12/08/1887)](celebratingEquation.png) ** - Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência.
+  Uma mente que ecoa em chips e sonhos quânticos, mesmo com um dia de delay!  @IsabelCasPe
+- **[Máquina de Gödel até 2025!](evolutionIA.png)** -  Esta imagem captura a evolução da IA entre limites e infinitos, inspirando meu repo QuantDataScienceX. Mergulha nos dados quânticos e nas estrelas do futuro.
  
 
 
