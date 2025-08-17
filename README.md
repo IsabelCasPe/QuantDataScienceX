@@ -12,7 +12,11 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 
 - **[Banner Math](BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
 - **[Efficient Frontier](FrontierEfficient.png)** - Otimização de portfólio em ação!   
-- **[Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌   
+- **[Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌
+- **[Erwin Schrödinger (12/08/1887)](celebratingEquation.png) ** Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência. Uma mente que ecoa em chips e sonhos quânticos, mesmo com um dia de delay!  @IsabelCasPe
+ 
+
+
 
 © 2025 @IsabelCasPe | [https://github.com/IsabelCasPe/QuantDataScienceX](https://github.com/IsabelCasPe/QuantDataScienceX)
 ---
