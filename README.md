@@ -18,8 +18,8 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 - **[Máquina de Gödel até 2025!](evolutionIA.png)** -  Esta imagem captura a evolução da IA entre limites e infinitos, inspirando meu repo QuantDataScienceX. Mergulha nos dados quânticos e nas estrelas do futuro.
 ---
 # Animations Futuristas do QuantDataScienceX
-- **[Simulação do Poço Infinito 1D: Uma Exploração Quântica Dinâmica (v2025)](infinite_well_cosmic.gif)** - Esta animação visualiza a evolução temporal da função de onda ψ(x,t)\psi(x,t)\psi(x,t)
- e sua densidade de probabilidade ∣ψ(x,t)∣2|\psi(x,t)|^2|\psi(x,t)|^2 ,  dentro de um poço de potencial infinito unidimensional, inspirada nos princípios da mecânica quântica. Implementada com Matplotlib, a simulação alterna entre estados próprios e superposições de estados (n=1,2), incorporando modulações de fase para enriquecer a dinâmica da onda. Estrelas cósmicas, com movimento aleatório e cintilância, simbolizam a interconexão entre o microcosmo quântico e o macrocosmo estelar, refletindo a evolução da inteligência artificial até 2025. 
+- **[Simulação do Poço Infinito 1D: Uma Exploração Quântica Dinâmica (v2025)](infinite_well_cosmic.gif)** - Esta animação visualiza a evolução temporal da função de onda ψ(x,t)
+ e sua densidade de probabilidade ∣ψ(x,t)|^2 ,  dentro de um poço de potencial infinito unidimensional, inspirada nos princípios da mecânica quântica. Implementada com Matplotlib, a simulação alterna entre estados próprios e superposições de estados (n=1,2), incorporando modulações de fase para enriquecer a dinâmica da onda. Estrelas cósmicas, com movimento aleatório e cintilância, simbolizam a interconexão entre o microcosmo quântico e o macrocosmo estelar, refletindo a evolução da inteligência artificial até 2025. 
 
 ---
 
