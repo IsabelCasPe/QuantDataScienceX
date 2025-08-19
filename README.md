@@ -23,7 +23,12 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 
 ---
 
+## Aviso Importante! 
+🎥 Nota pra galera:  
+As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceita arquivos até 25 MB. Algumas versões mais caprichadas (e pesadas!) podem não subir. Fiquem de olho nas redes ou me avisem pra compartilhar o brilho! 🌟  
+© 2025 @IsabelCasPe
 
+---
 
 
 
