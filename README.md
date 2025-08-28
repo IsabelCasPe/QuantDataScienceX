@@ -107,7 +107,7 @@ Algumas das frases que inspiram este repositório:
 
 **[Frase @Isa04](mathIsa04.png)** “Se a matemática é inventada ou descoberta? Pouco importa. O que importa é que ela nunca me deixa sem problemas pra resolver.” 😏📐
 
-**[Frase @Isa05](mathIsa05.png)** “Cada equação é uma janela. Cada padrão, uma pista do caos organizado.” ⚡
+**[Frase @Isa05](mathIsa05.png)** “A ideia de 10 dimensões pode até fascinar, mas imagina o caos pra achar o carro num multiverso! 🚗♾️” — inspirado no humor cósmico atribuído a Stephen Hawking. 🌌
 
 ---
 
