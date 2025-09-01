@@ -40,7 +40,7 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 - [apresenta.pdf](apresenta.pdf): QuantDataScienceX!  O Futuro das Finanças.
 - [BTC](btc.pdf): Dinâmica do BTC
 - [Relatório: SPY vs QQQ (1 Ano)}](RelatorioQQQandSPY.pdf) : Desvende o futuro financeiro com $SPY e $QQQ  
-  
+- [Análise Estatística e Risco no Mercado de Petróleo - 2025](PetroRelatorio.pdf) : Explorar o mercado de petróleo (WTI, Brent, Petrobras) com dados em tempo real.
 ### 1️⃣ Introdução & Setup  
 - Introdução à Ciência de Dados / *Introduction to Data Science*
 - [Bem-vindo ao Futuro da Finança Quântica](Introduction.pdf)
