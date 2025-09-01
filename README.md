@@ -41,6 +41,8 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 - [BTC](btc.pdf): Dinâmica do BTC
 - [Relatório: SPY vs QQQ (1 Ano)}](RelatorioQQQandSPY.pdf) : Desvende o futuro financeiro com $SPY e $QQQ  
 - [Análise Estatística e Risco no Mercado de Petróleo - 2025](PetroRelatorio.pdf) : Explorar o mercado de petróleo (WTI, Brent, Petrobras) com dados em tempo real.
+- [Avaliar : {BBAS3, ITUB4, BBDC4, SANB4}](RelatorioDe4Banks.pdf) : Oportunidade em dividendos, O ITUB4 e BBDC4 lideram o Dividend Yield na amostra.
+- --
 ### 1️⃣ Introdução & Setup  
 - Introdução à Ciência de Dados / *Introduction to Data Science*
 - [Bem-vindo ao Futuro da Finança Quântica](Introduction.pdf)
