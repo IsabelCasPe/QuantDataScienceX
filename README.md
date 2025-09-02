@@ -16,7 +16,7 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 - **[Erwin Schrödinger](celebratingEquation.png)** - Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência.
   Uma mente que ecoa em chips e sonhos quânticos, mesmo com um dia de delay!  @IsabelCasPe
 - **[Máquina de Gödel até 2025!](evolutionIA.png)** -  Esta imagem captura a evolução da IA entre limites e infinitos, inspirando meu repo QuantDataScienceX. Mergulha nos dados quânticos e nas estrelas do futuro.
-- **[BTC-USD atualizado. OHLC + volume anotado. ₿🪙📈](btc_dinamica_quantica09_2025.png)** - BTC-USD, visão quant: OHLC + volume com anotação de extremos. Quant view: OHLC + volume with highlighted highs/lows.
+- **[BTC-USD atualizado. ₿🪙📈📊](btc_dinamica_quantica09_2025.png)** - BTC-USD, visão quant: OHLC + volume com anotação de extremos. Quant view: OHLC + volume with highlighted highs/lows.
 ---
 # Animations Futuristas do QuantDataScienceX
 - **[Simulação do Poço Infinito 1D: Uma Exploração Quântica Dinâmica (v2025)](infinite_well_cosmic.gif)** - Esta animação visualiza a evolução temporal da função de onda ψ(x,t)
