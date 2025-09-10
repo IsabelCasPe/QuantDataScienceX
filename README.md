@@ -34,7 +34,7 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 # Schrödinger Tribute: Quantum Mechanics Pioneer **Erwin Schrödinger** (1887–1961), focando em sua equação, no paradoxo do gato e no impacto interdisciplinar. Desenvolvido com uma paleta quântica para fins educacionais..
 
 ## Files
-- [Erwin Schrödinger](Erwin_Schrodinger.pdf)
+- [Erwin Schrödinger](ErwinSchrodinger.pdf)
   
 -----
 
