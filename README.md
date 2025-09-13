@@ -19,6 +19,14 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 - **[BTC-USD atualizado. ₿🪙📈📊](btc_dinamica_quantica09_2025.png)** - BTC-USD, visão quant: OHLC + volume com anotação de extremos. Quant view: OHLC + volume with highlighted highs/lows.
 ---
 # Animations Futuristas do QuantDataScienceX
+- **![A 3D Quantum Financial Network ](quantum_network.gif)** A 3D Quantum Financial Network 💎✨ 
+A equação que aparece brilhando  𝐻∣𝜓⟩=𝐸∣𝜓⟩  é o coração da mecânica quântica (Schrödinger independente do tempo). Coloquei no vídeo como um ícone do meu 2030 quântico:
+🌀𝐻 (Hamiltoniano): o operador que representa a energia total. Na minha analogia, é o “maestro” que governa como os nós (bancos) interagem.
+🌀∣𝜓⟩: o estado quântico, a “alma” da rede, tudo que ela pode ser ao mesmo tempo.
+🌀𝐸: a energia do estado; aqui, lê-se como estabilidade/valor de uma configuração da rede.
+O que ela diz? Quando 𝐻 age em ∣𝜓⟩ e devolve o mesmo 
+∣𝜓⟩ multiplicado por 𝐸, esse ∣𝜓⟩ é um autoestado (estacionário): uma configuração estável. É isso que a minha animação sugere uma rede financeira quântica em equilíbrio elegante, com os nós pulsando feito uma neural net quântica. Neon🌀 porque futuro é high-tech  e porque, sim, caos domado também pode brilhar.✨
+--- 
 - **![Simulação do Poço Infinito 1D: Uma Exploração Quântica Dinâmica (v2025)](infinite_well_cosmic.gif)** - Esta animação visualiza a evolução temporal da função de onda ψ(x,t)
  e sua densidade de probabilidade ∣ψ(x,t)|^2 ,  dentro de um poço de potencial infinito unidimensional, inspirada nos princípios da mecânica quântica. Implementada com Matplotlib, a simulação alterna entre estados próprios e superposições de estados (n=1,2), incorporando modulações de fase para enriquecer a dinâmica da onda. Estrelas cósmicas, com movimento aleatório e cintilância, simbolizam a interconexão entre o microcosmo quântico e o macrocosmo estelar, refletindo a evolução da inteligência artificial até 2025. 
 - **[O Futuro Quântico dos Mercados](mercado_quantico.gif)** - Projeções para 2045. 
