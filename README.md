@@ -10,13 +10,13 @@ Este repositório é uma **trilha prática** para aprender **Ciência de Dados**
 *Here you will find a hands-on roadmap to learn Data Science, with a special focus on quantitative and financial applications, including risk simulations, dynamic visualizations, and option pricing with Python.*
 # Galeria de Visualizações Futuristas do QuantDataScienceX
 
-- **[Banner Math](BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
-- **[Efficient Frontier](FrontierEfficient.png)** - Otimização de portfólio em ação!   
-- **[Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌
-- **[Erwin Schrödinger](celebratingEquation.png)** - Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência.
+- **![Banner Math](BannerMath.png)** - Um banner matemático estelar para inspirar cálculos!  
+- **![Efficient Frontier](FrontierEfficient.png)** - Otimização de portfólio em ação!   
+- **![Python Structure](python_structure.png)** - Desvende a estrutura do Python com esta árvore futurista! 🌌
+- **![Erwin Schrödinger](celebratingEquation.png)** - Entre ondas dançantes e mares de probabilidades, celebramos Erwin Schrödinger (nascido em 12/08/1887), que transformou o invisível em ciência.
   Uma mente que ecoa em chips e sonhos quânticos, mesmo com um dia de delay!  @IsabelCasPe
-- **[Máquina de Gödel até 2025!](evolutionIA.png)** -  Esta imagem captura a evolução da IA entre limites e infinitos, inspirando meu repo QuantDataScienceX. Mergulha nos dados quânticos e nas estrelas do futuro.
-- **[BTC-USD atualizado. ₿🪙📈📊](btc_dinamica_quantica09_2025.png)** - BTC-USD, visão quant: OHLC + volume com anotação de extremos. Quant view: OHLC + volume with highlighted highs/lows.
+- **![Máquina de Gödel até 2025!](evolutionIA.png)** -  Esta imagem captura a evolução da IA entre limites e infinitos, inspirando meu repo QuantDataScienceX. Mergulha nos dados quânticos e nas estrelas do futuro.
+- **![BTC-USD atualizado. ₿🪙📈📊](btc_dinamica_quantica09_2025.png)** - BTC-USD, visão quant: OHLC + volume com anotação de extremos. Quant view: OHLC + volume with highlighted highs/lows.
 ---
 # Animations Futuristas do QuantDataScienceX
 - **![A 3D Quantum Financial Network ](quantum_network.gif)** A 3D Quantum Financial Network 💎✨ 
@@ -29,7 +29,7 @@ O que ela diz? Quando 𝐻 age em ∣𝜓⟩ e devolve o mesmo
 --- 
 - **![Simulação do Poço Infinito 1D: Uma Exploração Quântica Dinâmica (v2025)](infinite_well_cosmic.gif)** - Esta animação visualiza a evolução temporal da função de onda ψ(x,t)
  e sua densidade de probabilidade ∣ψ(x,t)|^2 ,  dentro de um poço de potencial infinito unidimensional, inspirada nos princípios da mecânica quântica. Implementada com Matplotlib, a simulação alterna entre estados próprios e superposições de estados (n=1,2), incorporando modulações de fase para enriquecer a dinâmica da onda. Estrelas cósmicas, com movimento aleatório e cintilância, simbolizam a interconexão entre o microcosmo quântico e o macrocosmo estelar, refletindo a evolução da inteligência artificial até 2025. 
-- **[O Futuro Quântico dos Mercados](mercado_quantico.gif)** - Projeções para 2045. 
+- **![O Futuro Quântico dos Mercados](mercado_quantico.gif)** - Projeções para 2045. 
 ---
 
 ## Aviso Importante! 
@@ -42,7 +42,7 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 # Schrödinger Tribute: Quantum Mechanics Pioneer **Erwin Schrödinger** (1887–1961), focando em sua equação, no paradoxo do gato e no impacto interdisciplinar. Desenvolvido com uma paleta quântica para fins educacionais..
 
 ## Files
-- [Erwin Schrödinger](ErwinSchrodinger.pdf) 
+- ![Erwin Schrödinger](ErwinSchrodinger.pdf) 
   
 -----
 
@@ -117,15 +117,15 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 
 Algumas das frases que inspiram este repositório:
 
-**[Frase @Isa01](mathIsa01.png)** “A matemática é descoberta ou criação? Talvez seja como o universo: já existe… mas precisa de olhos humanos pra se revelar.” 🌌♾️
+**![Frase @Isa01](mathIsa01.png)** “A matemática é descoberta ou criação? Talvez seja como o universo: já existe… mas precisa de olhos humanos pra se revelar.” 🌌♾️
 
-**[Frase @Isa02](mathIsa02.png)** “Uns dizem que a matemática é criação, outros que é descoberta… eu digo que é só o idioma secreto do caos organizado.” 📊✨
+**![Frase @Isa02](mathIsa02.png)** “Uns dizem que a matemática é criação, outros que é descoberta… eu digo que é só o idioma secreto do caos organizado.” 📊✨
 
-**[Frase @Isa03](mathIsa03.png)** “Criamos símbolos, descobrimos padrões — no fim, a matemática é o teatro onde realidade e imaginação dividem o mesmo palco.” 🎭♾️
+**![Frase @Isa03](mathIsa03.png)** “Criamos símbolos, descobrimos padrões — no fim, a matemática é o teatro onde realidade e imaginação dividem o mesmo palco.” 🎭♾️
 
-**[Frase @Isa04](mathIsa04.png)** “Se a matemática é inventada ou descoberta? Pouco importa. O que importa é que ela nunca me deixa sem problemas pra resolver.” 😏📐
+**![Frase @Isa04](mathIsa04.png)** “Se a matemática é inventada ou descoberta? Pouco importa. O que importa é que ela nunca me deixa sem problemas pra resolver.” 😏📐
 
-**[Frase @Isa05](mathIsa05.png)** “A ideia de 10 dimensões pode até fascinar, mas imagina o caos pra achar o carro num multiverso! 🚗♾️” — inspirado no humor cósmico atribuído a Stephen Hawking. 🌌
+**![Frase @Isa05](mathIsa05.png)** “A ideia de 10 dimensões pode até fascinar, mas imagina o caos pra achar o carro num multiverso! 🚗♾️” — inspirado no humor cósmico atribuído a Stephen Hawking. 🌌
 
 ---
 
