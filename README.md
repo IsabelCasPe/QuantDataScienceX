@@ -137,7 +137,9 @@ Algumas das frases que inspiram este repositório:
 ## 📊 Status  
 [![Open Issues](https://img.shields.io/github/issues-raw/isabelcaspe/QuantDataScience)](https://github.com/isabelcaspe/QuantDataScience/issues)  
 [![Last Commit](https://img.shields.io/github/last-commit/isabelcaspe/QuantDataScience)](https://github.com/isabelcaspe/QuantDataScience/commits/main)
-
+---
+## ☕
+- ![Meu café - Maths](CaféDIsabel.png)
 ---
 
 ## Licença | License: Este repositório está sob a MIT License (LICENSE).
