@@ -1,5 +1,15 @@
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎✨
 
-# 🌐 📊 QuantDataScience  
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## 🌐 📊 QuantDataScience  
 **Ciência de Dados com Aplicações Quantitativas e Financeiras**  
 *Data Science with Quantitative and Financial Applications*  
 
@@ -148,7 +158,13 @@ Algumas das frases que inspiram este repositório:
 **© 2025 Ana Isabel Castillo** 
 ## Inspiração
 > "A abundância flui naturalmente em minha jornada, encontro amor e paz em cada passo, e sou grata pela sabedoria que ilumina meu caminho. As zoeiras são parte da minha alegria compartilhada!" ;)  
-> © Copyright - Ana Isabel Castillo (@IsabelCasPe) 
+> © Copyright - Ana Isabel Castillo (@IsabelCasPe)
+---
+## Instalação · Installation · Instalación
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python main.py
 
 
 
