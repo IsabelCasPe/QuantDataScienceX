@@ -153,12 +153,12 @@ Algumas das frases que inspiram este repositório:
 ---
 
 ## Licença | License: Este repositório está sob a MIT License (LICENSE).
-- Códigos Python: [MIT License](LICENSE)
+- Códigos Python: [MIT License](LICENSE)  © Copyright 
 
-**© 2025 Ana Isabel Castillo** 
+
 ## Inspiração
 > "A abundância flui naturalmente em minha jornada, encontro amor e paz em cada passo, e sou grata pela sabedoria que ilumina meu caminho. As zoeiras são parte da minha alegria compartilhada!" ;)  
-> © Copyright - Ana Isabel Castillo (@IsabelCasPe)
+> © Copyright - 2025 **Prof. Ana Isabel Castillo** - @IsabelCasPe 💎✨
 ---
 ## Instalação · Installation · Instalación
 ```bash
