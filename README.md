@@ -68,6 +68,10 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 - [Análise Estatística e Risco no Mercado de Petróleo - 2025](PetroRelatorio.pdf) : Explorar o mercado de petróleo (WTI, Brent, Petrobras) com dados em tempo real.
 - [Avaliar : {BBAS3, ITUB4, BBDC4, SANB4}](RelatorioDe4Banks.pdf) : Oportunidade em dividendos, O ITUB4 e BBDC4 lideram o Dividend Yield na amostra.
 - --
+## Quantum Brain Modeling : o cérebro como hardware biológico, um grafo finito que processa informação.
+- ![Quantum Brain Modeling](CerebroMente.pdf)
+  
+---
 ## 📚 Estrutura do Curso | Course Structure
 ---
 ### 1️⃣ Introdução & Setup  
