@@ -53,7 +53,7 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 # Schrödinger Tribute: Quantum Mechanics Pioneer **Erwin Schrödinger** (1887–1961), focando em sua equação, no paradoxo do gato e no impacto interdisciplinar. Desenvolvido com uma paleta quântica para fins educacionais..
 
 ## Files
-- ![Erwin Schrödinger](ErwinSchrodinger.pdf) 
+- [Erwin Schrödinger](ErwinSchrodinger.pdf) 
   
 -----
 
@@ -69,7 +69,7 @@ As simulações dinâmicas aqui são puro amor quântico, mas o GitHub só aceit
 - [Avaliar : {BBAS3, ITUB4, BBDC4, SANB4}](RelatorioDe4Banks.pdf) : Oportunidade em dividendos, O ITUB4 e BBDC4 lideram o Dividend Yield na amostra.
 - --
 ## Quantum Brain Modeling : o cérebro como hardware biológico, um grafo finito que processa informação.
-- ![Quantum Brain Modeling](CerebroMente.pdf)
+- [Quantum Brain Modeling](CerebroMente.pdf)
   
 ---
 ## 📚 Estrutura do Curso | Course Structure
