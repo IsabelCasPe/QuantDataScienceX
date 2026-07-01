@@ -5,6 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.19796-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.19796)
 [![Plain-Language Summary](https://img.shields.io/badge/summary-plain--language-2E8B57?logo=readme&logoColor=white)](https://gist.science/paper/2604.19796)
+[![JAES](https://img.shields.io/badge/JAES-Published-0B6E4F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-gold)
